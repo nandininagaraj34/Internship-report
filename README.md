@@ -1,11 +1,17 @@
 # Internship-report
 Quick loss recuperation is a significant issue. In- network routing problems will arise, when there is a quick setup of fast setting up of a new piece of network equipment and process failure, most of the routing problems caused by some configuration or design error, to come out of these routing problems fault tolerance is used. As it knows that the faster development of the Internet technologies the mechanism of fault tolerance is required to provide high opportunity and high accuracy in a system.In my project machine learning algorithms like Support vector machine (SVM) and K-nearest neighbour (K-NN)algorithms are used to faind out the failure and overcome this failure in a node.this method which is use to anlyze the failure of a node and reson of failure during the data transmission of a node.
+
 What is Machine Learning?
 Machine Learning is a branch of artificial intelligence (AI) focused on building applications that learn from data and improve their accuracy over time without being programmed to do. It is the process of simple learning or consuming knowledge, it helps to increase knowledge, makes the process efficiently and reduce the time consuming of the process also improves the process of automation machine learning has a different type of algorithm which differ in their input and Output sets of data intended to solve the problem. Classification, clustering techniques are a part of machine learning techniques to build machine learning models. machine- learning algorithm technique is used for traffic engineering for analysing the behaviour of the network state
+
+
  What You Mean by Fault Tolerance?
 Fault tolerance refers to the ability of a system like computer, network, cloud, cluster, etc…...to continue operating without interruption when one or more of its components fail.Fault tolerance is a concept that widely used in computer to indicate that the system continues working in the existence of failures. It has gained more concern with the emergence of cloud computing. With the large-scale and dynamic environment in clouds, errors become more popular and the need for fault tolerance becomes a must. 
+
 ![](types%20of%20faulttolerance.png)
+
 ![](relationship%20digram%20of%20fault%20error%20failure.png)
+
 Techniques are used 
 Python and 
 Overview of OMNeT ++
