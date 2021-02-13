@@ -33,6 +33,7 @@ Stage 3:In stage 3 the user now inputs the relevant data where it is to find and
 Stage 4:Now in this we classify the uploaded data set according to the system needs using KNN algorithm and after it is ready for next step feature extraction. Initialise k value which we take from test dataset, from obtained k value we calculate distance and consider nearest neighbours and make the classification (class).
 Stage 5:Feature Extraction: In this layer, only the features which are to be fed extracted. We will choose the feature from above classification process.
 ![](calculation%20of%20hybrid%201.png)
+![](graphical%20representation%20of%20hybrid%201A.png)
 
 
 
