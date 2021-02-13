@@ -16,7 +16,7 @@ Fault tolerance refers to the ability of a system like computer, network, cloud,
 
  ![](relationship%20digram%20of%20fault%20error%20failure.png)
  
-         Figure 2: Relation ship of fault ,error,failure
+         Figure 2: Relationship of fault ,error,failure
 
 Techniques are used :
 Python and 
@@ -44,7 +44,7 @@ Our proposed system helps on identifying the fault tolerant node which are faile
 
 ![](dataflow%20digram.png)
 
-                  figure 3: data flow digram
+                  figure 3: data flow diagram
 
 Steps involved:
 
