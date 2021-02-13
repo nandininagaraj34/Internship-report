@@ -12,13 +12,16 @@ Fault tolerance refers to the ability of a system like computer, network, cloud,
 
 ![](types%20of%20faulttolerance.png)
 
+Figure1: types of failure
 ![](relationship%20digram%20of%20fault%20error%20failure.png)
 
 Techniques are used 
 Python and 
 Overview of OMNeT ++
+
 OMNeT++ is an extensible, modular, component-based C++ simulation library and framework, primarily for building network simulators. “Network” is meant in a broader sense that includes wired and wireless communication networks, on-chip networks, queueing networks, and so on. Domain-specific functionality such as support for sensor networks, wireless ad-hoc networks, Internet protocols, performance modeling, photonic networks, etc., is provided by model frameworks, developed as independent projects. OMNeT++ offers an Eclipse-based IDE, a graphical runtime environment, and a host of other tools
 Components
+
 The main ingredients of OMNeT++ are:
 
 •	Simulation kernel library (C++)
@@ -32,6 +35,8 @@ Our proposed system helps on identifying the fault tolerant node which are faile
 
 ![](dataflow%20digram.png)
 
+figure 3: data flow digram
+
 steps involved
 
 Stage 1: Raw Data: In this stage, the historical fault tolerance data is agitated from Kaggle or Getup and this historical data is utilized for the prediction of failure nodes.
@@ -43,6 +48,8 @@ After the dataset is transformed into a pure dataset, the dataset is split into 
 Stage 3:In stage 3 the user now inputs the relevant data where it is to find and resolve fault tolerance if it occurs it is known us test dataset.
 Stage 4:Now in this we classify the uploaded data set according to the system needs using KNN algorithm and after it is ready for next step feature extraction. Initialise k value which we take from test dataset, from obtained k value we calculate distance and consider nearest neighbours and make the classification (class).
 Stage 5:Feature Extraction: In this layer, only the features which are to be fed extracted. We will choose the feature from above classification process.
+
+Snapshots
 
 ![](calculation%20of%20hybrid%201.png)
 
@@ -60,26 +67,9 @@ Stage 5:Feature Extraction: In this layer, only the features which are to be fed
 
 ![](graphical%20represenation%20of%20visualization%204A.png)
 
-![](
+![](AUC%20calculation.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Conclusion
 
 This work presents fault-tolerance in the scope of SDN. Also, we provided a simple background on fault-tolerance and related concepts to develop a complete understanding of the topic. Our goal was to identify SDN fault-tolerance requirements specific to the SDN architecture and discuss approaches that can be used to improve fault-tolerance in SDN. While exploring the topic of fault-tolerance in SDN, we have identified that each layer has its faults and fault-tolerance issues. In this implementation we first explore the relative node fault failure detection, which is an important issue for supporting dependability in distributed systems, and often is an important performance bottleneck in the event of node failure. Here, we analyses the failure detections, using machine learning technique and process the failure nodes in a better solution in terms of reliability and energy effectively. For the future enhancement we want to in addition increase energy of the sensor node further to the information flow to the bottom station with minimal relay nodes. This means that in order to achieve fault-tolerance different aspects and features are needed to be targeted, and no single-focused technology will be able to provide the reliability expected in commercial networks. SVM and K-means are effectively used to analyse the fault tolerance of network router using machine learning technique.
 
