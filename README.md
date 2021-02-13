@@ -13,6 +13,7 @@ Fault tolerance refers to the ability of a system like computer, network, cloud,
 ![](types%20of%20faulttolerance.png)
 
 Figure1: types of failure
+
 ![](relationship%20digram%20of%20fault%20error%20failure.png)
 
 Techniques are used 
@@ -25,19 +26,24 @@ Components
 The main ingredients of OMNeT++ are:
 
 •	Simulation kernel library (C++)
+
 •	The NED topology description language
+
 •	Simulation IDE based on the Eclipse platform
+
 •	Interactive simulation runtime GUI (Qtenv)
+
 •	Command-line interface for simulation execution (Cmdenv)
+
 •	Utilities (make file creation tool, etc.)
 
 Our proposed system helps on identifying the fault tolerant node which are failed due to any particular faults and are recovered and process quickly. Here we using machine learning technique like SVM and KNN algorithms for detection and helps to recover the nodes. We energised the fault nodes and help in further failure avoidance and help it get going to further process.
 
 ![](dataflow%20digram.png)
 
-figure 3: data flow digram
+                  figure 3: data flow digram
 
-steps involved
+Steps involved
 
 Stage 1: Raw Data: In this stage, the historical fault tolerance data is agitated from Kaggle or Getup and this historical data is utilized for the prediction of failure nodes.
 Stage 2:The next step is Data Pre-processing: · the pre-processing step includes
