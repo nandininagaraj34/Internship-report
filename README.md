@@ -15,6 +15,8 @@ Fault tolerance refers to the ability of a system like computer, network, cloud,
           Figure1: types of failure
 
  ![](relationship%20digram%20of%20fault%20error%20failure.png)
+ 
+         Figure 2: Relation ship of fault ,error,failure
 
 Techniques are used :
 Python and 
@@ -75,6 +77,18 @@ Snapshots:
 ![](graphical%20represenation%20of%20visualization%204A.png)
 
 ![](AUC%20calculation.png)
+
+This above figure AUC calculation shows the complete calculation of an kernel and hybrid through the graph analysis, and it’s give the AUC calculation through analyzing with False positive rate (FPR) is a measure of accuracy for a test, and also The true positive rate (TPR, also called sensitivity) is calculated as TP/TP+FN. TPR is the probability that an actual positive will test positive.
+
+excellent for AUC values between 0.9-1,
+
+good for AUC values between 0.8-0.9,
+
+fair for AUC values between 0.7-0.8
+
+poor for AUC values between 0.6-0.7
+
+failed for AUC values between 0.5-0.6
 
 Conclusion:
 
