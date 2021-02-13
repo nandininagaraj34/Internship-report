@@ -7,7 +7,7 @@ Machine Learning is a branch of artificial intelligence (AI) focused on building
 What You Mean by Fault Tolerance?
 Fault tolerance refers to the ability of a system like computer, network, cloud, cluster, etc…...to continue operating without interruption when one or more of its components fail.Fault tolerance is a concept that widely used in computer to indicate that the system continues working in the existence of failures. It has gained more concern with the emergence of cloud computing. With the large-scale and dynamic environment in clouds, errors become more popular and the need for fault tolerance becomes a must. 
 
- ![](nan1.png)
+ ![](types of faulttolerance.png)
  
 Techniques are used 
 Our proposed system helps on identifying the fault tolerant node which are failed due to any particular faults and are recovered and process quickly. Here we using machine learning technique like SVM and KNN algorithms for detection and helps to recover the nodes. We energised the fault nodes and help in further failure avoidance and help it get going to further process.
