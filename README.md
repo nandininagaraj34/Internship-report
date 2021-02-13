@@ -52,6 +52,8 @@ Stage 5:Feature Extraction: In this layer, only the features which are to be fed
 
 ![](Graphical%20represenation%20of%20kernel%20nodes%202A.png)
 
+![](calculation%20of%20single%20nodes%203.png)
+
 ![](
 
 
