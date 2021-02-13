@@ -58,6 +58,8 @@ Stage 5:Feature Extraction: In this layer, only the features which are to be fed
 
 ![](calculation%20of%20visualization%20using%20SVM%204.png)
 
+![](graphical%20represenation%20of%20visualization%204A.png)
+
 ![](
 
 
