@@ -17,6 +17,41 @@ Our proposed system helps on identifying the fault tolerant node which are faile
 
 
 
+Stage 1:
+
+Raw Data: In this stage, the historical fault tolerance data is agitated from Kaggle or Getup and this historical data is utilized for the prediction of failure nodes.
+
+Stage 2:
+
+The next step is Data Pre-processing: · the pre-processing step includes
+
+b)	Data transformation: Normalization.
+
+c)	Data cleaning: Fill in missing null values.
+
+d)	Data integration: Integration of data files.
+
+After the dataset is transformed into a pure dataset, the dataset is split into training and testing sets so as to evaluate. Here, the training values are taken as the more recent values. Testing data is kept as 5-10 percentage of the total dataset.
+
+Stage 3:
+
+In stage 3 the user now inputs the relevant data where it is to find and resolve fault tolerance if it occurs it is known us test dataset.
+
+Stage 4:
+
+Now in this we classify the uploaded data set according to the system needs using KNN algorithm and after it is ready for next step feature extraction. Initialise k value which we take from test dataset, from obtained k value we calculate distance and consider nearest neighbours and make the classification (class).
+
+Stage 5:
+
+Feature Extraction: In this layer, only the features which are to be fed extracted. We will choose the feature from above classification process.
+
+
+
+
+
+
+
+
 
 
 
