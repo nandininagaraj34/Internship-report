@@ -32,6 +32,8 @@ After the dataset is transformed into a pure dataset, the dataset is split into 
 Stage 3:In stage 3 the user now inputs the relevant data where it is to find and resolve fault tolerance if it occurs it is known us test dataset.
 Stage 4:Now in this we classify the uploaded data set according to the system needs using KNN algorithm and after it is ready for next step feature extraction. Initialise k value which we take from test dataset, from obtained k value we calculate distance and consider nearest neighbours and make the classification (class).
 Stage 5:Feature Extraction: In this layer, only the features which are to be fed extracted. We will choose the feature from above classification process.
+![](calculation%20of%20hybrid%201.png)
+
 
 
 
