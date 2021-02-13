@@ -10,11 +10,11 @@ Machine Learning is a branch of artificial intelligence (AI) focused on building
  
 Fault tolerance refers to the ability of a system like computer, network, cloud, cluster, etc…...to continue operating without interruption when one or more of its components fail.Fault tolerance is a concept that widely used in computer to indicate that the system continues working in the existence of failures. It has gained more concern with the emergence of cloud computing. With the large-scale and dynamic environment in clouds, errors become more popular and the need for fault tolerance becomes a must. 
 
-      ![](types%20of%20faulttolerance.png)
+![](types%20of%20faulttolerance.png)
 
           Figure1: types of failure
 
-    ![](relationship%20digram%20of%20fault%20error%20failure.png)
+ ![](relationship%20digram%20of%20fault%20error%20failure.png)
 
 Techniques are used :
 Python and 
@@ -40,7 +40,7 @@ The main ingredients of OMNeT++ are:
 
 Our proposed system helps on identifying the fault tolerant node which are failed due to any particular faults and are recovered and process quickly. Here we using machine learning technique like SVM and KNN algorithms for detection and helps to recover the nodes. We energised the fault nodes and help in further failure avoidance and help it get going to further process.
 
-            ![](dataflow%20digram.png)
+![](dataflow%20digram.png)
 
                   figure 3: data flow digram
 
